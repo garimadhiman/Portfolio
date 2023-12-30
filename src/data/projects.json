@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Easy Bazaar",
+    "imageSrc": "projects/project1.png",
+    "description": "Developed in a team of 2, integrating payment gateways for secure transaction.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/drazakk/Easy-Bazaar"
+  },
+  {
+    "title": "SocialWave",
+    "imageSrc": "projects/project2.jpg",
+    "description": "A dynamic social media application enabling users to connect, share posts, and engage with others.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/garimadhiman/SocialWave"
+  },
+  {
+    "title": "LinkedIn Clone",
+    "imageSrc": "projects/project3.jpg",
+    "description": "Created a professional networking platform by implementing real-time features like feed update.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/garimadhiman/Linkedin-Clone"
+  },
+  {
+    "title": "Chat App",
+    "imageSrc": "projects/Project4.jpg",
+    "description": "It involves a Chat Room wherein multiple users can communicate among themselves.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/garimadhiman/Chat-Application"
+  }
+]
